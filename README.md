@@ -1,4 +1,4 @@
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="python" height="26px" src="https://www.python.org/static/img/python-logo.png" />
 <img align="left" alt="mySQL" height="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png"/>
